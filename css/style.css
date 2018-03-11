@@ -1,0 +1,26 @@
+h3 {
+	padding: 20px 50px;
+}
+
+.row {
+}
+
+#button-container {
+	width:80%;
+	margin:0 auto;
+}
+
+
+#logo-container {
+	position:relative;
+	top: 70%;
+	left: 15%;
+	margin:0 auto;
+	border:1px solid lightgrey;
+	height:auto;
+}
+
+.logo {
+	width: 20%;
+	margin: 2%;
+}
